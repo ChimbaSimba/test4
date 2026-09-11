@@ -1,0 +1,9 @@
+{
+  "name": "codex-review-redis-fixture",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "test:unit": "node --test tests/unit/*.test.js",
+    "test": "npm run test:unit"
+  }
+}
